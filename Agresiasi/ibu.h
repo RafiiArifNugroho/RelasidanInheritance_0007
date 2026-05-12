@@ -7,3 +7,6 @@ class anak;
 class Ibu
 {
 public:
+    // deklarasi member variabel pada class ibu
+    string nama;
+    vector<anak *> daftar_anak;
